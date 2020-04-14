@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Conceitos React Native" title="Conceitos React Native" src="https://github.com/robertoricci/desafio-conceitos-reactnative/src/assets/gostack-reactnative.png" width="200px" />
+  <img alt="Conceitos React Native" title="Conceitos React Native" src="https://github.com/robertoricci/desafio-conceitos-reactnative/.github/src/assets/gostack-reactnative.png" width="200px" />
 </h1>
 
 <h3 align="center">
