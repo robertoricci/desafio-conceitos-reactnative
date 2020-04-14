@@ -19,9 +19,11 @@
     <img alt="Made by Roberto Ricci" src="https://img.shields.io/badge/made%20by-Roberto%20Ricci-%2304D361">
   </a>
 
-  <a href="https://github.com/robertoricci/conceitos-reactnative/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/robertoricci/conceitos-reactnative?style=social">
-  </a>
+<a href="https://github.com/robertoricci/
+desafio-conceitos-reactnative/stargazers">
+<img alt="Stargazers" src="https://img.shields.io/github/stars/robertoricci/conceitos-reactnative?style=social">
+</a>
+
 </p>
 
 ## Getting Started
@@ -37,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-$> git clone https://github.com/lcoalves/conceitos-reactnative.git
+$> git clone https://github.com/robertoricci/conceitos-reactnative.git
 ```
 
 ### Installing
