@@ -11,7 +11,7 @@
 <!-- <p align="center">See in action: <a href="#">click here</a></p> -->
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Roberto Ricci/conceitos-reactnative?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Roberto Ricci/desafio-conceitos-reactnative?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
@@ -21,7 +21,7 @@
 
 <a href="https://github.com/robertoricci/
 desafio-conceitos-reactnative/stargazers">
-<img alt="Stargazers" src="https://img.shields.io/github/stars/robertoricci/conceitos-reactnative?style=social">
+<img alt="Stargazers" src="https://img.shields.io/github/stars/robertoricci/desafio-conceitos-reactnative?style=social">
 </a>
 
 </p>
