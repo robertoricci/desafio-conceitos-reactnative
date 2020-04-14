@@ -11,7 +11,7 @@
 <!-- <p align="center">See in action: <a href="#">click here</a></p> -->
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Roberto Ricci/desafio-conceitos-reactnative?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertoricci/desafio-conceitos-reactnative?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
