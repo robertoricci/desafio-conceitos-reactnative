@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="Conceitos React Native" title="Conceitos React Native" src=".github/gostack-reactnative.png" width="200px" />
+  <img alt="Conceitos React Native" title="Conceitos React Native" src="https://github.com/robertoricci/desafio-conceitos-reactnative/src/assets/gostack-reactnative.png" width="200px" />
 </h1>
 
 <h3 align="center">
-  Desafio Bootcamp Rocketseat 11 : Conceitos React Native, nesse desafio, foi criado uma aplicação mobile para treinar e aprimorar conhecinemnto no React Native!
+   Desafio Bootcamp Rocketseat 11 : Conceitos React Native, nesse desafio, foi criado uma aplicação mobile para treinar e aprimorar conhecinemento no React Native!
   <br>
   Aplicacação que irá apresentar repositórios do meu portfólio e curti-los, visto que já foi desenvolvido o back-end e o front-end nos últimos desafios utilizando o NodeJS e ReactJS.
 </h3>
@@ -11,7 +11,7 @@
 <!-- <p align="center">See in action: <a href="#">click here</a></p> -->
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Roberto Ricci/desafio-conceitos-reactnative?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertoricci/desafio-conceitos-reactnative?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
@@ -19,8 +19,7 @@
     <img alt="Made by Roberto Ricci" src="https://img.shields.io/badge/made%20by-Roberto%20Ricci-%2304D361">
   </a>
 
-<a href="https://github.com/robertoricci/
-desafio-conceitos-reactnative/stargazers">
+<a href="https://github.com/robertoricci/desafio-conceitos-reactnative/stargazers">
 <img alt="Stargazers" src="https://img.shields.io/github/stars/robertoricci/desafio-conceitos-reactnative?style=social">
 </a>
 
